@@ -194,11 +194,11 @@ ScreenManager:
 						app.info()
 					
 				#MDRectangleFlatIconButton:
-#					icon:'alert'
-#					text:'Warnings'
-#					pos_hint:{'center_x':.5,'center_y':1}
-#					on_release:
-#						app.warnings()
+					icon:'alert'
+					text:'Warnings'
+					pos_hint:{'center_x':.5,'center_y':1}
+					on_release:
+						app.warnings()
 						
 				MDFillRoundFlatIconButton:
 					icon:'format-color-fill'
