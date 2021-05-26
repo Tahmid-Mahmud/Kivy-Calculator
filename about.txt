@@ -1,0 +1,13 @@
+This is a very simple Calculator App, ideal for our everyday calculations.
+
+https://kivy-calc.blogspot.com/p/privacy-kivy-calculator.html?m=1
+
+
+org.test.bfirstapp
+
+org.test.bsecondapp
+
+
+This is a very simple Calculator App made with kivy and kivy material design (kivymd). This is a very primary Calculator App, ideal for simple calculations.
+
+In this calculator we have tried to avoid the wrong calculation probablity of python and implement a standard metarial design of kivymd.
